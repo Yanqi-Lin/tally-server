@@ -52,7 +52,7 @@ module.exports = appInfo => {
       // 端口号
       port: '3306',
       // 用户名
-      user: 'root',
+      user: 'tally-cost',
       // 密码
       password: 'lamlam', // Window 用户如果没有密码，可不填写
       // 数据库名
