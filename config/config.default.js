@@ -48,7 +48,7 @@ module.exports = appInfo => {
     // 单数据库信息配置
     client: {
       // host
-      host: 'localhost',
+      host: '47.120.51.252',
       // 端口号
       port: '3306',
       // 用户名
